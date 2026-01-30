@@ -37,4 +37,4 @@ Dynamic cards:
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/profile-riki/","generic":"https://www.kaggle.com/profileriki"}
+{"linkedin":"https://www.linkedin.com/in/profile-riki/";"generic":"https://www.kaggle.com/profileriki"}
