@@ -37,6 +37,9 @@ I also develop Python-based APIs and data applications, applying engineering bes
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 ### ☁️ DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -47,8 +50,13 @@ I also develop Python-based APIs and data applications, applying engineering bes
 
 ## 📈 GitHub Stats
 
-![Riki's GitHub stats](https://github-readme-stats.vercel.app/api?username=riki-profile&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riki-profile&layout=compact&theme=github_dark)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riki-profile&theme=github_dark" height="160" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riki-profile&theme=github_dark" height="160" alt="Top languages"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=riki-profile&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
